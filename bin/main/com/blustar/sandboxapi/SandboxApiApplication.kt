@@ -1,4 +1,4 @@
-package com.blustar.sandbox_api
+package com.blustar.sandboxapi
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
