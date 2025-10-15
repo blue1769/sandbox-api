@@ -1,10 +1,10 @@
-package com.blustar.sandbox_api
+package com.blustar.sandboxapi
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class DemoApplicationTests {
+class SandboxApiApplicationTest {
 
 	@Test
 	fun contextLoads() {
