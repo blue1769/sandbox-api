@@ -47,7 +47,8 @@ replay_pid*
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -79,6 +80,12 @@ Temporary Items
 !.vscode/launch.json
 !.vscode/extensions.json
 !.vscode/*.code-snippets
+
+### IntelliJ ###
+.idea/
+*.iws
+*.iml
+*.ipr
 
 # Local History for Visual Studio Code
 .history/
